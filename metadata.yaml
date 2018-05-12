@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/221
     wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17053#Kate-Bonnet--The-Romance-of-a-Pirate-s-Daughter
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2005-11-12'
 gutenberg_type: Text
