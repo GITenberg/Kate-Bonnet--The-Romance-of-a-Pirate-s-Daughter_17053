@@ -1,0 +1,47 @@
+_repo: Kate-Bonnet--The-Romance-of-a-Pirate-s-Daughter_17053
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Potter, Harry Spafford
+    birthdate: 1873
+    deathdate: 1940
+    gutenberg_agent_id: '8062'
+    url: http://www.gutenberg.org/2009/agents/8062
+  - agent_name: Keller, Arthur Ignatius
+    aliases:
+    - Keller, Arthur I.
+    - Keller, A. I. (Arthur Ignatius)
+    birthdate: 1866
+    deathdate: 1924
+    gutenberg_agent_id: '7429'
+    url: http://www.gutenberg.org/2009/agents/7429
+covers:
+- cover_type: archival
+  image_path: 17053-h/images/cover_01.png
+creator:
+  author:
+    agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Frank R. (Frank Richard)
+    - Stockton, Francis Richard
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2005-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17053'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Pirates -- Family relationships -- Fiction'
+- !lcsh 'Love stories'
+title: 'Kate Bonnet: The Romance of a Pirate''s Daughter'
+url: http://www.gutenberg.org/ebooks/17053
